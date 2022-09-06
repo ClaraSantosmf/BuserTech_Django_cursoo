@@ -1,3 +1,4 @@
 -r requirements.in
 pytest-django
 flake8
+python-decouple
